@@ -37,11 +37,4 @@
 | **AWS**                     | AWS Cloud Practitioner Essentials (Credential ID: ZFWMC2QNZ667) [🔗](https://www.coursera.org/account/accomplishments/certificate/ZFWMC2QNZ667) |
 | **SQL**                     | META Advanced SQL (Credential ID: C59S2LPQV3HT)[🔗](https://www.coursera.org/account/accomplishments/certificate/C59S2LPQV3HT) <br> HackerRank Advanced SQL (Credential ID: B4B6129A5E75) [🔗](https://www.hackerrank.com/certificates/b4b6129a5e75?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)|
 | **Python**                  | HackerRank (Credential ID: 3540A6CCAB08) [🔗](https://www.hackerrank.com/certificates/3540a6ccab08) |
-
-
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hridayj7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hridayj7&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hridayj7&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| **PowerBI**                     | Data Analysis and Visualization with Power BI (Credential ID: SK1V1T09DTZT)[🔗](https://www.coursera.org/account/accomplishments/certificate/SK1V1T09DTZT) <br> Harnessing the Power of Data with Power BI (Credential ID: 6Q3ZE6FB4Y68) [🔗](https://www.coursera.org/account/accomplishments/verify/6Q3ZE6FB4Y68)|
