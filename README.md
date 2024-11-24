@@ -1,7 +1,7 @@
 [![MasterHead](https://frogdesign.nyc3.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)](https://github.com/Hridayj7)
 
 <h1 align="center">Hi 👋, I'm Akshay Jadhav</h1>
-<h3 align="center">Unraveling Insights from Data | Data Science Enthusiast</h3>
+<h3 align="center">Unraveling Insights from Data | Data Science Practitioner</h3>
 
 [![](https://visitcount.itsvg.in/api?id=hridayj7&icon=0&color=0)](https://visitcount.itsvg.in)
 
